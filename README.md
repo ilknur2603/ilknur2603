@@ -35,12 +35,6 @@ I prefer React & React Native for web/mobile, Node.js technologies for back-end 
 
 </p>
 
-## 📈 Statistics
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ilknur2603-S&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilknur2603-S&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilknur2603-S&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ilknur2603&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
