@@ -38,10 +38,10 @@ I prefer React & React Native for web/mobile, Node.js technologies for back-end 
  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" height="45" /></a>
  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45" /></a>
  <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" /></a>
-<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  height="45"/></a>
+
 
 <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" height="45" /></a>
-<a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45"/></a>
+
 </p>
 
 
@@ -60,4 +60,4 @@ I prefer React & React Native for web/mobile, Node.js technologies for back-end 
 ## 🌐 Socials:
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)(https://discord.gg/Iggy#3635)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)(https://facebook.com/Ilknur Dayanc Bloomer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ilknur Dayanc Bloomer) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/Ilknur Dayanc Bloomer) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)(https://twitter.com/Ilknur Dayanc) 
-![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/feed/)
+![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)([https://www.linkedin.com/feed](https://www.linkedin.com/in/ilknur-dayanc-bloomer-7392b2163/)https://www.linkedin.com/in/ilknur-dayanc-bloomer-7392b2163//)
