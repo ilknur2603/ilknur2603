@@ -8,9 +8,9 @@ I prefer React & React Native for web/mobile, Node.js technologies for back-end 
 
 - I’m a Fullstack developer
 
-- I’m currently learning Typscript, AWS and Tailwind
+- I’m currently learning Typscript, React Native
 
-- HTML5, CSS3, JavaScript, React, SQL, Mysql, GitHub, RESTful APIs, React Native
+- HTML5, CSS3, JavaScript, React, SQL, Mysql, GitHub, RESTful APIs, Tailwindcss,
 
 - 💬 Ask me about anything that you want to learn
 
